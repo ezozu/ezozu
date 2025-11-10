@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikrishnakireet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/sri-krishna-kireet-g/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fullstackireetguntur.lovable.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srikrishnakireet@gmail.com)
 [![Location](https://img.shields.io/badge/San_Francisco_CA-00599C?style=for-the-badge&logo=google-maps&logoColor=white)]()
@@ -44,7 +44,7 @@
 - Built clinician dashboards with ReactJS, improving case review times by 40%
 
 #### 💻 Value Labs - Python Developer
-**India | Oct 2020 - Aug 2024**
+**India | Oct 2020 - Dec 2023**
 - Streamlined workflows through automation, saving 40% manual effort for 5K+ users
 - Built Flask REST APIs serving 10K+ daily users
 - Migrated MongoDB to Elasticsearch, slashing query time by 60%
