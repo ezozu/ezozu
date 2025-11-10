@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 - Built clinician dashboards with ReactJS, improving case review times by 40%
 
 #### 💻 Value Labs - Python Developer
-**India | Oct 2020 - Aug 2024**
+**India | Oct 2020 - Dec 2023**
 - Streamlined workflows through automation, saving 40% manual effort for 5K+ users
 - Built Flask REST APIs serving 10K+ daily users
 - Migrated MongoDB to Elasticsearch, slashing query time by 60%
