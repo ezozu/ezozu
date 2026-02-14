@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Sri Krishna Kireet G 👋
+# Hi there, I'm Sri Krishna Kireet G 👋 (You can call me ezo)
 
 <div align="center">
   
