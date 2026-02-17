@@ -170,7 +170,7 @@ Apache Kafka | Apache Spark | Spark Streaming | RabbitMQ
 - 📧 Email: **srikrishnakireet@gmail.com**
 - 📱 Phone: **650-515-1879**
 - 🌐 Portfolio: **[fullstackireetguntur.lovable.app](https://fullstackireetguntur.lovable.app)**
-- 💼 LinkedIn: **[Connect with me](https://www.linkedin.com/in/srikrishnakireet)**
+- 💼 LinkedIn: **[Connect with me](https://www.linkedin.com/in/sri-krishna-kireet-g/)**
 - 📍 Location: **San Francisco, California**
 
 ---
